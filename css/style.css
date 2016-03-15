@@ -1,0 +1,229 @@
+.sakura {
+	background: url("../img/header_bg.jpg");
+	background-size: cover;
+	border-bottom-left-radius: 30em 7em;
+	border-bottom-right-radius: 30em 7em;
+}
+
+.white {
+	color: white;
+}
+
+.yellow {
+	color: #f7e461;
+}
+
+.yellow_bg {
+	background-color: #f7e461;
+}
+
+.well {
+	border-color: transparent;
+	background-color: black;
+	border-radius: 0;
+	opacity: 0.9;
+	margin-bottom: 0;
+	border-bottom-left-radius: 20em 2.5em;
+	border-bottom-right-radius: 20em 2.5em;
+}
+
+.header_logo_text {
+	font-size: 0.6em;
+	margin-bottom: 0;
+}
+
+.header_logo_date {
+	font-size: 2em;
+	margin-bottom: 1vh;
+}
+
+.header_content_big {
+	font-size: 2em;
+}
+
+.margin_top_none {
+	margin-top: 0;
+}
+
+.margin_bottom_none {
+	margin-bottom: 0px;
+}
+
+.red_bg {
+	background-color: red;
+}
+
+.btn-danger {
+	border-color: transparent;
+}
+
+.text_in_button {
+	margin-right: 3vw;
+	margin-left: 3vw;
+}
+
+.img_style {
+	height: 20vh;
+}
+
+.margin_top_header_img {
+	margin-top: 7vh;
+}
+
+.section_margin {
+	margin-top: 10vh;
+}
+
+.programm_header {
+	font-size: 2em;
+}
+
+p {
+	margin: 0;
+}
+
+.programm_header_text {
+	font-size: 1.5em;
+}
+
+.grafiki {
+	height: 60vh;
+	background-color: #5cb85c;
+}
+
+.btn-warning {
+	box-shadow: 0px 2px 1px 1px black;
+	color: black;
+}
+
+.test {
+	height: 100vh;
+}
+
+.indent_1 {
+	margin-top: 5vh;
+}
+
+.body {
+	background: url("../img/body_bg.jpg");
+	background-size: cover;
+}
+
+.header_style {
+	background-color: #fdb320;
+	font-size: 2em;
+}
+
+.face_bg {
+	background: url("../img/about_face_img.jpg");
+	background-size: cover;
+	height: 60vh;
+}
+
+.margin_header {
+	margin-top: 5vh;
+	margin-bottom: 4vh;
+}
+
+.about_text_color {
+	color: #7699b7;
+}
+
+.about_img {
+
+}
+
+.header_style2 {
+	background-color: #e25856;
+	font-size: 2em;
+
+}
+
+.well2 {
+	border-radius: 0;
+	background-color: white;
+	opacity: 1;
+	height: 85vh;
+}
+
+.header_style3 {
+	background-color: #2aabd2;
+	font-size: 2em;
+}
+
+.margin_bottom_standart {
+	margin-bottom: 10vh;
+}
+
+.gifts_header {
+	background-color: #1b6d85;
+	font-size: 1.5em;
+}
+
+.black {
+	color: black;
+}
+
+.gifts_color {
+	color: #0378ae;
+}
+
+.indent_gift_2 {
+	margin-top: 2vh;
+}
+
+.winners_gifts {
+	font-size: 1.2em;
+}
+
+.hr_color {
+	color: red;
+}
+
+.header_style4 {
+	background-color: #fdb320;
+	font-size: 2em;
+}
+
+.slovarik {
+	background-color: #5cb85c;
+	height: 30vh;
+}
+
+.book_1 {
+	background: url("../img/gift_book_1.jpg");
+	background-size: contain;
+	width: 86px;
+	height: 124px;
+}
+
+.book_2 {
+	background: url("../img/gift_book_2.jpg");
+	background-size: contain;
+	width: 86px;
+	height: 124px;
+}
+
+.dictionary {
+	background: url("../img/img_dictionary.jpg");
+	background-size: contain;
+	width: 284px;
+	height: 243px;
+}
+.well3{
+	background-color: white;
+	border-color: #fdb320;
+	border-width: 4px;
+	border-radius: 0;
+}
+.vk_form{
+	background-color: #5cb85c;
+	height: 20vh;
+}
+.fb_form{
+	background-color: #2aabd2;
+	height: 20vh;
+}
+footer{
+	background-color: #21334b;
+}
